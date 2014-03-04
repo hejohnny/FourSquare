@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player2Controller.cs">
+    <Files>
+      <File FileName="Assets\BotMovement.cs" Line="10" Column="2" />
+      <File FileName="..\week4_unity_movement\Assets\RigidbodyController.cs" Line="34" Column="14" />
+      <File FileName="Assets\Player2Controller.cs" Line="29" Column="103" />
+      <File FileName="Assets\PlayerOneController.cs" Line="27" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
